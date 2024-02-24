@@ -1,0 +1,21 @@
+
+export const Theme = {
+    colorPrimary: '#FF6F1D',
+    colorPrimary98: '#47762698',
+    colorPrimary90: '#47762690',
+    colorPrimary70: '#47762670',
+    colorPrimary50: '#47762650',
+    colorPrimary30: '#47762630',
+    colorPrimary10: '#47762610',
+    colorSecundary: '#E8E7E7',
+    colorWhite90:'rgba(255,255,255,0.9)',
+    colorWhite70:'rgba(255,255,255,0.7)',
+    colorWhite50:'rgba(255,255,255,0.5)',
+    colorWhite30:'rgba(255,255,255,0.3)',
+    colorWhite10:'rgba(255,255,255,0.1)',
+    colorBlack90:'rgba(0,0,0,0.9)',
+    colorBlack70:'rgba(0,0,0,0.7)',
+    colorBlack50:'rgba(0,0,0,0.5)',
+    colorBlack30:'rgba(0,0,0,0.3)',
+    colorBlack10:'rgba(0,0,0,0.1)',
+};
